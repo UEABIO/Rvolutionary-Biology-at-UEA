@@ -9,9 +9,13 @@ subtitle: "a collection of useful reading for the modern data scientist"
 
 ::: {.column width="45%"}
 
+# Organising analyses
+
+- [Data Organization in Spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
+
 # Reporting analyses
 
-- [How to report analysis results](https://link.springer.com/article/10.1007/s43440-020-00110-5): A published guide on the approproate way to report results from a statistical test.
+- [How to report analysis results](https://link.springer.com/article/10.1007/s43440-020-00110-5): A published guide on the appropriate way to report results from a statistical test.
 
 - [Reporting statistical methods](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.4539): A great paper on the necessary level of detail in methods reporting, a how-to-guide
 
@@ -29,7 +33,11 @@ subtitle: "a collection of useful reading for the modern data scientist"
 
 - [Guides to reproducible code](https://www.britishecologicalsociety.org/wp-content/uploads/2019/06/BES-Guide-Reproducible-Code-2019.pdf?utm_source=web&utm_medium=web&utm_campaign=better_science): The British Ecological Society guide to making reproducible code
 
+- [Implementing code review in the scientific workflow: Insights from ecology and evolutionary biology](https://doi.org/10.1111/jeb.14230)
+
 - [Society for Open, Reliable, and Transparent Ecology and Evolutionary biology ](https://www.sortee.org/reading/): This organisation produces a reading list on how to make better reproducible science
+
+- [Reproducibility trial: 246 biologists get different results from same data sets](https://www.nature.com/articles/d41586-023-03177-1)
 
 :::
 

@@ -1,31 +1,10 @@
 [
   {
-    "objectID": "undergraduate_courses/4008Y-Skills/index.html",
-    "href": "undergraduate_courses/4008Y-Skills/index.html",
-    "title": "INTRODUCTION TO STATISTICS IN R FOR BIOLOGISTS AND ECOLOGISTS",
+    "objectID": "information.html",
+    "href": "information.html",
+    "title": "teaching resources",
     "section": "",
-    "text": "Dates\n17th-20th July 2023\nSign up today\n\n\nLEARNING OUTCOMES\n\nUnderstand how to read, interpret and write scripts in R.\nLearn statistical tools to address common questions in research activities.\nAn introduction to efficient, readable and reproducible analyses\nBeing comfortable with using R when performing both descriptive and inferential statistics."
-  },
-  {
-    "objectID": "myresources.html",
-    "href": "myresources.html",
-    "title": "books, workshops & communities",
-    "section": "",
-    "text": "Oxford University Press"
-  },
-  {
-    "objectID": "myresources.html#fa-book-titleopen-book-books",
-    "href": "myresources.html#fa-book-titleopen-book-books",
-    "title": "books, workshops & communities",
-    "section": "",
-    "text": "Oxford University Press"
-  },
-  {
-    "objectID": "myresources.html#fa-users-titlethree-people-communities",
-    "href": "myresources.html#fa-users-titlethree-people-communities",
-    "title": "books, workshops & communities",
-    "section": " Communities",
-    "text": "Communities\n\nBiosciences Teaching and Education Research Zenodo Page\nA curated output of talks, workshops and teaching innovations from the Biological Sciences Department, University of East Anglia (UEA), Norwich, UK.\n\n\nSkills Community of Practice\nThe Skills Community of Practice is an informal forum to share approaches to teaching undergraduate skills with colleagues across institutes. Each month, there is a presentation from a member about their approach to teaching a specific skill or skillset, followed by some whole groups comments/discussion."
+    "text": "Organising analyses\n\nData Organization in Spreadsheets\n\n\n\nReporting analyses\n\nHow to report analysis results: A published guide on the appropriate way to report results from a statistical test.\nReporting statistical methods: A great paper on the necessary level of detail in methods reporting, a how-to-guide\n\n\n\n\n\n\nReproducible science\n\nGuides to reproducible code: The British Ecological Society guide to making reproducible code\nImplementing code review in the scientific workflow: Insights from ecology and evolutionary biology\nSociety for Open, Reliable, and Transparent Ecology and Evolutionary biology: This organisation produces a reading list on how to make better reproducible science\nReproducibility trial: 246 biologists get different results from same data sets"
   },
   {
     "objectID": "index.html",
@@ -42,17 +21,38 @@
     "text": "Other Resources:"
   },
   {
+    "objectID": "undergraduate_courses/4008Y-Skills/index.html",
+    "href": "undergraduate_courses/4008Y-Skills/index.html",
+    "title": "INTRODUCTION TO STATISTICS IN R FOR BIOLOGISTS AND ECOLOGISTS",
+    "section": "",
+    "text": "Dates\n17th-20th July 2023\nSign up today\n\n\nLEARNING OUTCOMES\n\nUnderstand how to read, interpret and write scripts in R.\nLearn statistical tools to address common questions in research activities.\nAn introduction to efficient, readable and reproducible analyses\nBeing comfortable with using R when performing both descriptive and inferential statistics."
+  },
+  {
+    "objectID": "myresources.html",
+    "href": "myresources.html",
+    "title": "books, workshops & communities",
+    "section": "",
+    "text": "Oxford University Press"
+  },
+  {
+    "objectID": "myresources.html#books",
+    "href": "myresources.html#books",
+    "title": "books, workshops & communities",
+    "section": "",
+    "text": "Oxford University Press"
+  },
+  {
+    "objectID": "myresources.html#communities",
+    "href": "myresources.html#communities",
+    "title": "books, workshops & communities",
+    "section": " Communities",
+    "text": "Communities\n\nBiosciences Teaching and Education Research Zenodo Page\nA curated output of talks, workshops and teaching innovations from the Biological Sciences Department, University of East Anglia (UEA), Norwich, UK.\n\n\nSkills Community of Practice\nThe Skills Community of Practice is an informal forum to share approaches to teaching undergraduate skills with colleagues across institutes. Each month, there is a presentation from a member about their approach to teaching a specific skill or skillset, followed by some whole groups comments/discussion."
+  },
+  {
     "objectID": "people.html",
     "href": "people.html",
     "title": "People",
     "section": "",
     "text": "Dr Philip Leftwich\n\n\nAssociate Professor University of East Anglia\n\n\n\n\n\n    \n\n\n\n\n\n\n\n\n\nDr Ellen Bell\n\n\nLecturer University of East Anglia"
-  },
-  {
-    "objectID": "information.html",
-    "href": "information.html",
-    "title": "teaching resources",
-    "section": "",
-    "text": "Reporting analyses\n\nHow to report analysis results: A published guide on the approproate way to report results from a statistical test.\nReporting statistical methods: A great paper on the necessary level of detail in methods reporting, a how-to-guide\n\n\n\n\n\n\nReproducible science\n\nGuides to reproducible code: The British Ecological Society guide to making reproducible code\nSociety for Open, Reliable, and Transparent Ecology and Evolutionary biology: This organisation produces a reading list on how to make better reproducible science"
   }
 ]
